@@ -1,10 +1,10 @@
-import React from "react";
+import React from 'react';
 
 const Header = () => {
   return (
     <div>
       <h1 className="font-weight-light display-1 text-center">
-        Restaurant Finder
+        Restaurant Finder (React-app)
       </h1>
     </div>
   );
